@@ -24,3 +24,7 @@ yarn-error.log*
 
 # dependencies
 /node_modules
+package-lock.json
+
+# cache
+/server/__pycache__

@@ -15,11 +15,11 @@ export default function NavBar() {
           personal_website
         </Link>
         <div className="navbar-nav">
-          <Link className="nav-item nav-link active" to="Blank">
-            Blank
-          </Link>
           <Link className="nav-item nav-link active" to="Grid">
             Grid
+          </Link>
+          <Link className="nav-item nav-link active" to="Blank">
+            Blank
           </Link>
           <Link className="nav-item nav-link active" to="Master_Detail">
             Master_Detail

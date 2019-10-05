@@ -52,13 +52,13 @@ export default class Grid extends Component {
     return (
       <main id="mainContent">
         <div className={classnames("text-center", styles.header)}>
-          <h1>personal_website</h1>
+          <h1>Lê Hoàng Anh</h1>
           <p>This is placeholder text. Your web app description goes here.</p>
           <a
-            href="https://github.com/Microsoft/WebTemplateStudio"
+            href="https://github.com/lehoanganh298"
             className="btn btn-primary my-2"
           >
-            Link to our Github
+            Github
           </a>
         </div>
 
